@@ -68,13 +68,13 @@ const[page,setpage]=useState(1)
           <h1 className="" style={{ textAlign: "center" ,marginTop:"100px"}}>
             NewsMonkey -Top {capitalize(props.category)} headlines
           </h1>
-          { loading&&<Spinner></Spinner>}
-          <InfiniteScroll
+          {/* { loading&&<Spinner></Spinner>} */}
+          {/* <InfiniteScroll
             dataLength={article.length}
             next={fetchMoreData}
             hasMore={article.length !==totalResults}
             loader={<Spinner />}
-          >
+          > */}
             <div
               className="container my-5"
               style={{
@@ -104,11 +104,8 @@ const[page,setpage]=useState(1)
                 );
               })}
             </div>
-          </InfiniteScroll>
-          {/* <div className='container d-flex justify-content-between'>
-     <div><button disabled={state.page+1<=1} type="button" onClick={premove} className="btn btn-dark ">&larr; Previous</button></div>
-     <div><button disabled={state.page+1>Math.ceil(state.totalResults/props.pageSize)} type="button" onClick={nxtmove} className="btn btn-dark d-flex justify-content-between">Next &rarr;</button></div>
-     </div> */}
+          {/* </InfiniteScroll> */}
+         
         </div>
       </>
     );
