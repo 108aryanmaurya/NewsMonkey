@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Cheyenne Ligon",
+            "title": "DOJ Claims Sam Bankman-Fried Tried to Influence Witness Testimony, Asks for Communications Ban - CoinDesk",
+            "description": "A court document filed by prosecutors on Friday alleges that Bankman-Fried messaged FTX US General Counsel Ryne Miller on Signal, asking to reconnect and “vet things with each other.”",
+            "url": "https://www.coindesk.com/policy/2023/01/28/doj-claims-sam-bankman-fried-tried-to-influence-witness-testimony-asks-for-communication-ban/",
+            "urlToImage": "https://www.coindesk.com/resizer/OsqG0e28jlgFembgPrOJal7CBRU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHGCA65X5JHKNDO3L37XQLZZFM.jpg",
+            "publishedAt": "2023-01-28T10:06:00Z",
+            "content": "Federal prosecutors wrote a letter to U.S. District Court Judge Lewis Kaplan on Friday, requesting that he modify the conditions of Sam Bankman-Frieds bail to include ban on private communications wi… [+2942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "AP",
+            "title": "How To See The Green Comet Zooming Our Way For First Time In 50,000 Years - HuffPost",
+            "description": "The comet last visited during Neanderthal times, according to NASA.",
+            "url": "https://www.huffpost.com/entry/green-comet_n_63d4eb27e4b07c0c7e03ca10",
+            "urlToImage": "https://img.huffingtonpost.com/asset/63d4eb282200006d0032a3c7.jpeg?cache=0mXMJFRvht&ops=1200_630",
+            "publishedAt": "2023-01-28T09:38:52Z",
+            "content": "CAPE CANAVERAL, Fla. (AP) A comet is streaking back our way after 50,000 years.\r\nThe dirty snowball last visited during Neanderthal times, according to NASA. It will come within 26 million miles (42 … [+3477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Tyre Nichols Death | Joe Biden Condemns The Death Of Tyre Nichols & Brutality Of Memphis Police - CNN-News18",
+            "description": "Tyer Nichols Death | Joe Biden Condemns The Death Of Tyer Nichols & Brutality Of Memphis Police President Joe Biden called for peaceful protests ahead of the...",
+            "url": "https://www.youtube.com/watch?v=zwYh9JoH2Oc",
+            "urlToImage": "https://i.ytimg.com/vi/zwYh9JoH2Oc/maxresdefault_live.jpg",
+            "publishedAt": "2023-01-28T09:23:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Nicole Winfield",
+            "title": "Pope clarifies homosexuality and sin comments in note - The Associated Press",
+            "description": "ROME (AP) — Pope Francis has clarified his recent comments about homosexuality and sin, saying he was merely referring to official Catholic moral teaching that teaches that any sexual act outside of marriage is a sin.",
+            "url": "https://apnews.com/862075728690d103bd99bbe8e1e65aba",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/654efcd9c7274662a795bee6de157e22/3000.webp",
+            "publishedAt": "2023-01-28T09:12:21Z",
+            "content": "ROME (AP) Pope Francis has clarified his recent comments about homosexuality and sin, saying he was merely referring to official Catholic moral teaching that teaches that any sexual act outside of ma… [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dr. Neha Chaudhary",
+            "title": "Sleep disorders are associated with more parental stress - CNN",
+            "description": "It's no surprise to new parent Dr. Neha Chaudhary that a new study found that sleep disorders in parents and children cause parental stress. Here's what she advises you do next.",
+            "url": "https://www.cnn.com/2023/01/28/health/parenting-stress-sleep-disorders-study-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230127155753-01-sleep-habits-stress-new-parents-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-28T08:13:00Z",
+            "content": "Editors Note: Dr. Neha Chaudhary, a child and adolescent psychiatrist, is chief medical officer at BeMe Health and on the faculty at Massachusetts General Hospital and Harvard Medical School.\r\nWhen I… [+3855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Amazon axes free grocery delivery on some Prime orders - Fox Business",
+            "description": "Amazon Prime members who used to get free delivery on their grocery orders will be paying a fee for orders under $150.",
+            "url": "https://www.foxbusiness.com/markets/amazon-axes-free-grocery-delivery-some-prime-orders",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/Amazon-fresh-truck-A.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-28T07:10:12Z",
+            "content": "Amazon Prime members will no longer get free delivery on some grocery orders starting next month.\r\nAmazon Fresh orders under $150 will no longer qualify for free delivery.\r\nCustomers will be charged … [+1870 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Czechs vote in second round of presidential election - BBC",
+            "description": "Former PM Andrej Babis and retired Nato general Petr Pavel are vying for the ceremonial but influential post.",
+            "url": "https://www.bbc.com/news/world-europe-64421310",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D22B/production/_128430835_ca7f97aac5a4ed04a4e3c303d31feeb5c4527af2350_1302_3465_19491000x563.jpg",
+            "publishedAt": "2023-01-28T05:23:48Z",
+            "content": "Czech voters have been going to the polls to elect a successor to President Milos Zeman, whose second term ends in March.\r\nThe second-round runoff between former Prime Minister Andrej Babis and retir… [+2199 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Flybe Placed Into Administration And All Operations Ceased - Simple Flying",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9mbHliZS1jZWFzZXMtb3BlcmF0aW9ucy1qYW51YXJ5LTIwMjMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-28T05:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WISN Milwaukee"
+            },
+            "author": null,
+            "title": "85 vehicle pileup: Lanes reopened on I-39/90 between Janesville and Beloit - WISN Milwaukee",
+            "description": "The Rock County Sheriff's Office is asking that drivers avoid the area as their personnel works on several multiple-vehicle accidents and subsequent pileups.",
+            "url": "https://www.wisn.com/article/traffic-alert-major-pileup-all-lanes-i-39-closed-50-cars-involved/42690432",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/ff2c3717-c29f-44ac-be0f-4c8b88ae2893/ff2c3717-c29f-44ac-be0f-4c8b88ae2893_image.jpg?crop=0.782xw:0.781xh;0.157xw,0&resize=1200:*",
+            "publishedAt": "2023-01-28T04:30:00Z",
+            "content": "ROCK COUNTY, Wis. —An update from DOT just after 9 p.m.\r\nAll lanes have reopened on I-39 NB/SB at I-39 - I-90 in Rock County near Beloit. \r\nWisconsin State Patrol says 85 vehicles were involved and 2… [+1849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Russia-Ukraine war at a glance: what we know on day 339 of the invasion - The Guardian",
+            "description": "Fresh wave of Russian attacks in east and south Ukraine kill at least 10 civilians; troops locked in ‘fierce’ fighting for Donetsk town of Vugledar",
+            "url": "https://www.theguardian.com/world/2023/jan/28/russia-ukraine-war-at-a-glance-what-we-know-on-day-339-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/4d84cefd366e9eb871bcbb18fb728450bcc38511/0_354_5323_3194/master/5323.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1869585c9122ce5dacf590d07fef8ee",
+            "publishedAt": "2023-01-28T04:25:00Z",
+            "content": "<li>A new barrage of Russian shelling has killed at least 10 Ukrainian civilians and wounded 20 others in a day, the office of Ukraines president has said. Regional officials said towns and villages … [+4300 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Pierre Meilhan, Heather Chen",
+            "title": "West to deliver 321 tanks to Ukraine, says diplomat, as North Korea accuses US of 'crossing the red line' - CNN",
+            "description": "Western countries will deliver more than 300 tanks to Ukraine, Kyiv's ambassador to France said Friday.",
+            "url": "https://www.cnn.com/2023/01/27/world/ukraine-tanks-western-allies-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230127194750-01-vadym-omelchenko-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-28T04:24:00Z",
+            "content": "Western countries will deliver more than 300 tanks to Ukraine, Kyivs ambassador to France said Friday.\r\nAs of today, numerous countries have officially confirmed their agreement to deliver 321 heavy … [+3465 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russian ‘megalomania’ in Ukraine war cited at death camp memorial - Al Jazeera English",
+            "description": "The Auschwitz camp memorial director equated Nazi crimes of World War II with Russian forces now in Ukraine.",
+            "url": "https://www.aljazeera.com/news/2023/1/28/russias-megalomania-in-ukraine-war-cited-at-auschwitz-memorial",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2018/02/d29b1e45e8b24cafbd40b2cb47079759_18.jpeg?resize=1200%2C675",
+            "publishedAt": "2023-01-28T03:33:52Z",
+            "content": "The director of the Auschwitz Nazi death camp memorial has compared the recent killing of people in Ukraine by Russian forces with similar suffering experienced during World War II.\r\nMarking the 78th… [+2975 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "Some of George Santos' 2020 campaign donors may not exist: report - Business Insider",
+            "description": "More than a dozen donations listed in the New York congressman's 2020 campaign filings could not be verified, Mother Jones reported.",
+            "url": "https://www.businessinsider.com/george-santos-campaign-list-donors-who-may-not-exist-report-2023-1",
+            "urlToImage": "https://i.insider.com/63d4ab2d4589790018e59e1a?width=1200&format=jpeg",
+            "publishedAt": "2023-01-28T02:12:00Z",
+            "content": "More than a dozen top donors listed in George Santos's failed 2020 campaign were attributed to addresses that don't exist or to names that could not be verified, according to a Mother Jones report pu… [+2672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Jerusalem synagogue attack: Seven killed in shooting - BBC",
+            "description": "The victims are shot dead in a suspected militant attack at a synagogue in East Jerusalem.",
+            "url": "https://www.bbc.com/news/world-middle-east-64430491",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A626/production/_128443524_gettyimages-1246597112.jpg",
+            "publishedAt": "2023-01-28T01:40:21Z",
+            "content": "Seven people have been shot dead at a synagogue in East Jerusalem, the most killed in an attack of this kind for years. At least three more people were injured. \r\nThe incident happened in the city's … [+4084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Kimberly Roots",
+            "title": "‘Shrinking’ Premiere: Grade Season 1, Episode 1, Apple TV Plus Comedy - TVLine",
+            "description": "Jason Segel’s character in Apple TV+ ‘s new dramedy, Shrinking, breaks every therapist rule within the first episode. But apparently, it’s OK!, because",
+            "url": "https://tvline.com/2023/01/27/shrinking-recap-premiere-episode-1-apple-tv-plus-jason-segel-harrison-ford/",
+            "urlToImage": "https://tvline.com/wp-content/uploads/2023/01/shrinking-premiere-recap-apple-tv-plus.jpg?w=621",
+            "publishedAt": "2023-01-28T01:01:00Z",
+            "content": "Jason Segel’s character in Apple TV+ ‘s new dramedy, Shrinking, breaks every therapist rule within the first episode. But apparently, it’s OK!, because he’s funny and it seems to work out every time.… [+4391 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Jan. 6 rioter who maced Brian Sicknick sentenced to 80 months - POLITICO",
+            "description": "A U.S. District Court Judge found that Julian Khater made a calculated decision to work his way to the front of the mob and unleash a prolonged spray attack that injured at least three officers.",
+            "url": "https://www.politico.com/news/2023/01/27/jan-6-rioter-who-maced-brian-sicknick-sentenced-to-80-months-00080026",
+            "urlToImage": "https://static.politico.com/79/f1/2935b7af43178810cd5039f15973/capitol-riot-officers-death-15558.jpg",
+            "publishedAt": "2023-01-28T00:52:11Z",
+            "content": "Dozens of members of the Capitol Police turned out to witness Khaters sentencing and remained for the entire four-hour hearing. Among them: Caroline Edwards, who was sprayed by Khater moments after S… [+2446 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Film academy reviewing Oscar campaigns after surprise nomination - Reuters",
+            "description": "Hollywood's film academy said on Friday it was reviewing this year's campaigns for Oscar nominations, a day after a media report raised questions about the surprise nod for British actress Andrea Riseborough.",
+            "url": "https://www.reuters.com/lifestyle/film-academy-reviewing-oscar-campaigns-after-surprise-nomination-2023-01-28/",
+            "urlToImage": "https://www.reuters.com/resizer/Ck4duy8yuukMdJs6SFIZVLCQuQs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AT3L7G2GKZIN5O2ML5LI6RFLTQ.jpg",
+            "publishedAt": "2023-01-28T00:34:00Z",
+            "content": "LOS ANGELES, Jan 27 (Reuters) - Hollywood's film academy said on Friday it was reviewing this year's campaigns for Oscar nominations, a day after a media report raised questions about the surprise no… [+1951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nicki Gostin",
+            "title": "Pamela Anderson's ex-husband Jon Peters to leave her $10 million in his will - Page Six",
+            "description": "“I will always love Pamela, always in my heart. As a matter of fact, I left her $10 million in my will. And she doesn’t even know that,” he said.",
+            "url": "https://pagesix.com/2023/01/27/pamela-andersons-ex-jon-peters-to-leave-her-10-million-in-his-will/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/Jon-peters-Pamela-Anderson-ex-husband-12-million-will-0065-1.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-28T00:16:00Z",
+            "content": "Pamela Anderson’s ex-husband Jon Peters plans on leaving her a very generous gift of $10 million when he dies, despite their union lasting less than two weeks.\r\nI will always love Pamela, always in m… [+3109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Brock Purdy on 'Embracing' the Challenges of Playing on the Road vs. Eagles | 49ers - San Francisco 49ers",
+            "description": "#49ers #PressPass #SFvsPHIQB Brock Purdy detailed how he mentally prepares before games and shared his excitement to play in the NFC Championship Game in Phi...",
+            "url": "https://www.youtube.com/watch?v=xh0pQgaWII8",
+            "urlToImage": "https://i.ytimg.com/vi/xh0pQgaWII8/maxresdefault.jpg",
+            "publishedAt": "2023-01-28T00:08:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall Street ends higher, notches weekly gains as Fed meeting looms - Reuters",
+            "description": "Wall Street advanced on Friday, marking the end of an rocky week in which economic data and corporate earnings guidance hinted at softening demand but also economic resiliency ahead of next week's Federal Reserve monetary policy meeting.",
+            "url": "https://www.reuters.com/markets/us/wall-st-set-subdued-open-intel-warning-hits-chip-stocks-2023-01-27/",
+            "urlToImage": "https://www.reuters.com/resizer/pTSXoeZCxLlrGu9xAloDMsTrFpI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M6XTAZRYIJOBZDKLLGT7LNY7RI.jpg",
+            "publishedAt": "2023-01-27T23:40:00Z",
+            "content": "NEW YORK, Jan 27 (Reuters) - Wall Street advanced on Friday, marking the end of an rocky week in which economic data and corporate earnings guidance hinted at softening demand but also economic resil… [+3867 chars]"
+        }
+    ]
+}
