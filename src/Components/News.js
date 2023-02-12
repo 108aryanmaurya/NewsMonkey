@@ -68,7 +68,7 @@ const[page,setpage]=useState(1)
           <h1 className="" style={{ textAlign: "center" ,marginTop:"100px"}}>
             NewsMonkey -Top {capitalize(props.category)} headlines
           </h1>
-          {/* { loading&&<Spinner></Spinner>} */}
+          { loading&&<Spinner></Spinner>}
           <InfiniteScroll
             dataLength={article.length}
             next={fetchMoreData}
